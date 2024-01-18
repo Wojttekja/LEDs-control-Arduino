@@ -10,3 +10,5 @@ The first option involves setting it for a few minutes, while the second option 
 The loop can only be interrupted by using the reset button, 
 conveniently located next to my desk and bed.
 While this solution works well for me, I acknowledge that it may not be the most elegant or professional approach to the problem.
+
+![Wiring scheme:](https://github.com/Wojttekja/LEDs-control-Arduino/blob/main/wiring.png)
